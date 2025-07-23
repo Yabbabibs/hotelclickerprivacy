@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hotel Clicker - Data Deletion Request</title>
+</head>
+<body>
+  <h1>Request Data Deletion</h1>
+  <p>If you would like to request deletion of any data associated with your use of the <strong>Hotel Clicker</strong> app, please follow the instructions below:</p>
+  
+  <h2>How to Request Deletion:</h2>
+  <ol>
+    <li>Send an email to: <strong>srhtnkykz@gmail.com</strong></li>
+    <li>Use the subject line: <strong>Data Deletion Request - Hotel Clicker</strong></li>
+    <li>Include any identifying information that can help us locate your data (such as advertising ID, if available).</li>
+  </ol>
+
+  <h2>Data We Can Delete:</h2>
+  <ul>
+    <li>Game progress or identifiers stored on our servers (if any)</li>
+    <li>Advertising identifiers (if collected)</li>
+  </ul>
+
+  <h2>Data Retention Policy:</h2>
+  <p>We do not store personal user data beyond what is necessary for game functionality. Data that is not tied to an identifier or account is automatically discarded.</p>
+
+  <p>If you have further questions, feel free to contact us at <strong>srhtnkykz@gmail.com</strong></p>
+</body>
+</html>
